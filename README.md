@@ -1,2 +1,2 @@
 # ML-AndrewNg
-Assignments of ML Coursea by Andrew Ng on Coursera
+Assignments of ML Course by Andrew Ng on Coursera
